@@ -9,4 +9,4 @@
 - [ ] [HATEOAS](https://www.google.com/search?q=HATEOAS)  
 - [ ] [StreamUtils](https://www.google.com/search?q=StreamUtils)  
 - [ ] [@ControllerAdvice](https://www.google.com/search?q=%40ControllerAdvice)  
-- [ ] [@@ExceptionHandler](https://www.google.com/search?q=%40ExceptionHandler)  
+- [ ] [@ExceptionHandler](https://www.google.com/search?q=%40ExceptionHandler)  
