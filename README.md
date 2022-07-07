@@ -6,3 +6,4 @@
 - [ ] [ModelMapper](https://www.google.com/search?q=ModelMapper+Spring)  
 - [ ] [HAL](https://www.google.com/search?q=HAL)  
 - [ ] [Domain-Driven Design](https://www.google.com/search?q=Domain-Driven+Design)  
+- [ ] [HATEOAS](https://www.google.com/search?q=HATEOAS)  
