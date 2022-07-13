@@ -10,3 +10,4 @@
 - [ ] [StreamUtils](https://www.google.com/search?q=StreamUtils)  
 - [ ] [@ControllerAdvice](https://www.google.com/search?q=%40ControllerAdvice)  
 - [ ] [@ExceptionHandler](https://www.google.com/search?q=%40ExceptionHandler)  
+- [ ] [Манифест Реактивных Систем](https://www.reactivemanifesto.org/ru)  
