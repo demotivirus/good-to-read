@@ -11,3 +11,4 @@
 - [ ] [@ControllerAdvice](https://www.google.com/search?q=%40ControllerAdvice)  
 - [ ] [@ExceptionHandler](https://www.google.com/search?q=%40ExceptionHandler)  
 - [ ] [Манифест Реактивных Систем](https://www.reactivemanifesto.org/ru)  
+- [ ] [OAuth2](https://www.google.com/search?q=OAuth2)  
