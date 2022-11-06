@@ -13,4 +13,4 @@
 - [ ] [Манифест Реактивных Систем](https://www.reactivemanifesto.org/ru)  
 - [ ] [OAuth2](https://www.google.com/search?q=OAuth2)  
 - [ ] [SpEL](https://www.google.com/search?q=spel)  
-- [ ] [@ConfigurationProperties]([https://www.google.com/search?q=spel](https://www.google.com/search?q=ConfigurationProperties)  
+- [ ] [@ConfigurationProperties](https://www.google.com/search?q=ConfigurationProperties)  
