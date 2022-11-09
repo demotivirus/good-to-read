@@ -14,3 +14,5 @@
 - [ ] [OAuth2](https://www.google.com/search?q=OAuth2)  
 - [ ] [SpEL](https://www.google.com/search?q=spel)  
 - [ ] [@ConfigurationProperties](https://www.google.com/search?q=ConfigurationProperties) замена @Value  
+- [ ] [Feign Client](https://www.google.com/search?q=feign+client)  
+
