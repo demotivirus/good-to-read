@@ -22,3 +22,4 @@
 - [ ] [Websocket](https://www.google.com/search?q=websocket+%2B+spring) для чатов и онлайн пушей сервиса  
 - [ ] [Rsocket](https://www.google.com/search?q=rsocket+%2B+spring) Reactive Streams поверх вебсокета  
 - [ ] [Deep Java Library](https://www.google.com/search?q=Deep+Java+Library) Maсhine learning for java  
+- [ ] [JaCoCo](https://www.google.com/search?q=JaCoCo) Отчеты о покрытии кода юнит тестами  
