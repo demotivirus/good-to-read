@@ -19,6 +19,6 @@
 - [ ] [Neo4j](https://www.google.com/search?q=Neo4j+%2B+spring) База данных на основе графов  
 - [ ] [Javassist](https://www.google.com/search?q=Javassist) Библиотека для манипулиции с байткодом  
 - [ ] [Quarkus](https://www.google.com/search?q=Quarkus) Java-фреймворк следующего поколения, ориентированный на Kubernetes  
-
-
+- [ ] [Websocket](https://www.google.com/search?q=websocket+%2B+spring) для чатов и онлайн пушей сервиса  
+- [ ] [Rsocket](https://www.google.com/search?q=rsocket+%2B+spring) Reactive Streams поверх вебсокета  
 
