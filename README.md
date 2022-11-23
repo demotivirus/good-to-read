@@ -12,7 +12,7 @@
 - [ ] [@ExceptionHandler](https://www.google.com/search?q=%40ExceptionHandler)  
 - [ ] [Манифест Реактивных Систем](https://www.reactivemanifesto.org/ru)  
 - [ ] [OAuth2](https://www.google.com/search?q=OAuth2)  
-- [ ] [JWT](https://www.google.com/search?q=jwt&oq=jwt)  
+- [ ] [JWT](https://www.google.com/search?q=jwt&oq=jwt)  токен для авторизации  
 - [ ] [SpEL](https://www.google.com/search?q=spel)  
 - [ ] [@ConfigurationProperties](https://www.google.com/search?q=ConfigurationProperties) замена @Value  
 - [ ] [Feign Client](https://www.google.com/search?q=feign+client)  
