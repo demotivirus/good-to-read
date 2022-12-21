@@ -24,5 +24,5 @@
 - [ ] [Rsocket](https://www.google.com/search?q=rsocket+%2B+spring) Reactive Streams поверх вебсокета  
 - [ ] [Deep Java Library](https://www.google.com/search?q=Deep+Java+Library) Maсhine learning for java  
 - [ ] [System design](https://www.google.com/search?q=system+design) Знания необходимые АРХИТЕКТОРУ  
-
-
+- [ ] [@CrossOrigin](https://www.google.com/search?q=%40CrossOrigin)  
+- [ ] [Spring boot starter](https://www.google.com/search?q=spring+boot+starter)  
