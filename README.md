@@ -26,3 +26,9 @@
 - [ ] [System design](https://www.google.com/search?q=system+design) Знания необходимые АРХИТЕКТОРУ  
 - [ ] [@CrossOrigin](https://www.google.com/search?q=%40CrossOrigin)  
 - [ ] [Spring boot starter](https://www.google.com/search?q=spring+boot+starter)  
+- [ ] [JMX](https://www.google.com/search?q=JMX)  
+- [ ] [Swagger Codegen](https://www.google.com/search?q=Swagger+Codegen)  
+- [ ] [Spring integration](https://www.google.com/search?q=spring+integration)  
+
+
+
