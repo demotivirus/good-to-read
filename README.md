@@ -29,6 +29,6 @@
 - [ ] [JMX](https://www.google.com/search?q=JMX)  
 - [ ] [Swagger Codegen](https://www.google.com/search?q=Swagger+Codegen)  
 - [ ] [Spring integration](https://www.google.com/search?q=spring+integration)  
-
-
+- [ ] [Spring Boot Admin](https://www.google.com/search?q=Spring+Boot+Admin)  
+- [ ] [Spring Boot Service Discovery](https://www.google.com/search?q=Spring+Cloud+Service+Discovery)  
 
