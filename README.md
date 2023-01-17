@@ -31,7 +31,7 @@
 - [ ] [Spring integration](https://www.google.com/search?q=spring+integration)  
 - [ ] [Spring Boot Admin](https://www.google.com/search?q=Spring+Boot+Admin) графический интерфейс над акутатором  
 - [ ] [Spring Boot Service Discovery](https://www.google.com/search?q=Spring+Cloud+Service+Discovery) графический интерфейс над акутатором в ОБЛАКЕ 
-- [ ] [Json path](https://www.google.com/search?q=json+path) какая-то библиотека для парсинаг json  
+- [ ] [Json path](https://www.google.com/search?q=json+path) какая-то библиотека для парсинга json  
 - [ ] [Spring batch](https://www.google.com/search?q=Spring+batch)  
 
 
